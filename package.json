@@ -35,7 +35,6 @@
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
-    "react-native": ">=0.59",
-    "react-native-windows": ">=0.57.2"
+    "react-native": ">=0.59"
   }
 }
